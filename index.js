@@ -1,4 +1,4 @@
-const  hourE1 = document.getElementById ("hour");
+const  hourE1 = document.getElementById ("hours");
 const  minutesE1 = document.getElementById ("minutes");
 const  secondsE1 = document.getElementById ("seconds");
 const  ampmE1 = document.getElementById ("ampm");
